@@ -5,4 +5,9 @@ package com.jonny.databaseexample;
  */
 public class Image_Table {
 
+    public Image_Table(){
+        
+    }
+
+
 }
